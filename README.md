@@ -1,17 +1,18 @@
 # Transaction Dashboard
 MERN Stack Challenge by Roxiler
 <br/>
-View live app via this [Link](https://roxiler-transactions-dashboard.onrender.com/)
+View Screenshot of the App
+
 <br/>
 <br/>
-Frontend Technologies
+# Frontend Technologies
 - React
 - Ant Design Components
 - Chart.js
 - Moment
 - Axios
 
-Backend Technologies
+# Backend Technologies
 - Express
 - Node
 - Mongoose
